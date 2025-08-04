@@ -27,4 +27,4 @@ The Book-Crossing dataset comprises 3 files.
 
 * **Ratings:** Contains the book rating information. Ratings (Book-Rating) are either explicit, expressed on a scale from 1-10 (higher values denoting higher appreciation), or implicit, expressed by 0.
 
-**Datasets Link:-** https://drive.google.com/drive/folders/1Gi0wMWCTigA_rJSi9huyT51lKduBSv43?usp=share_link 
+**Datasets Link:-** https://drive.google.com/drive/folders/1X46xv4TcJn6xp5guTxl7-iiuuMW1POZ0?usp=drive_link 
